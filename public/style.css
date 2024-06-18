@@ -72,7 +72,7 @@ h1{
 .message-left, .message-right{
     list-style: none;
     padding: 8px 12px;
-    margin: 10px 5px;
+    margin: 10px 6px;
     max-width: 250px;
     font-size: 18px;
     word-wrap: break-word;
@@ -83,6 +83,7 @@ h1{
     align-self: flex-start;
     background-color: #fff;
     box-shadow: -2px 2px 4px #dcdcdc;
+   
 }
 
 .message-right{
@@ -91,6 +92,7 @@ h1{
     background-color: #2d2d2d;
     box-shadow: 2px 2px 4px #dcdcdc;
     color:#f6f6f6;
+    
 }
 
 .message-left > p > span, .message-right > p > span{
