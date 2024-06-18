@@ -40,7 +40,7 @@ h1{
 
 .name span{
     color:#7e7e7e;
-
+    
 }
 
 .name-input{
@@ -175,9 +175,16 @@ h1{
         flex-direction: column;
         background-color: #f6f6f6;
         width: 350px;
-        height: 600px;
+        height: 500px;
+        
         overflow-y: scroll  ;
         overflow-x: hidden;
         
+    }
+
+    .message-form{
+        display: flex;
+        justify-content: space-between;
+        width: 350px;
     }
   }
